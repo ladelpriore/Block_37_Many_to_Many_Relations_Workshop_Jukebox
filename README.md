@@ -1,6 +1,5 @@
-# Jukebox
-
-Introducing Jukebox, the successor to Jukebox Mini! We've secured some initial tracks for our digital music platform, so now users can add tracks to their playlists.
+# Block 37, Many to Many Relations, Workshop: Jukebox
+A backend for users to secure some initial tracks for our digital music platform, so now users can add tracks to their playlists. Create a Postgress database seeded with users and playlists and routes with body-parsing and error-handling middleware
 
 ## Database
 
